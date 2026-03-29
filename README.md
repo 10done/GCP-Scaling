@@ -6,11 +6,6 @@
 - **`scale-out-gcp.sh`**, **`scale-out-aws.sh`**, **`scale-out-azure.sh`** — production CLI hooks
 - **`app.py`** — sample Flask app on port 8080
 
-## Documentation
-
-- **[REPORT.md](./REPORT.md)** — Full project report (architecture, steps, test results, deliverable links, originality declaration).
-- **[DEMO_NARRATION.md](./DEMO_NARRATION.md)** — Step-by-step demo voice-over and file explanations.
-
 ## Quick run
 
 ```bash
